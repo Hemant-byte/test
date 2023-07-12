@@ -1,0 +1,52 @@
+.navcont {
+  margin: 20px 0;
+}
+
+.botones {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  margin-right: 40px;
+}
+
+.buttons div {
+  margin-right: 5px;
+}
+
+.botones img {
+  height: 50px;
+  margin-left: 40px;
+}
+
+.cart {
+  display: flex;
+}
+
+.cart img {
+  height: 28px;
+  width: 80%;  
+  margin: 6px;
+}
+
+.cart p {
+  background: teal;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 100%;
+  margin-left: 5px;
+}

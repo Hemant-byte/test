@@ -1,0 +1,25 @@
+.searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    width: 100%;
+       
+  }
+
+
+  .searchbar input {
+    margin-right: 10px;
+    border-radius: 5px;
+      height: 40px;
+    width: 400px;
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #1b1a1a4c;
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    
+  }
+
+
+
